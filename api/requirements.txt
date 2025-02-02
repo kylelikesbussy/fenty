@@ -1,5 +1,0 @@
-requests
-psutil
-PIL-tools
-pycryptodome
-pywin32
